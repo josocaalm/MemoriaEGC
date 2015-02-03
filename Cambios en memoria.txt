@@ -1,0 +1,12 @@
+
+-Resumen: [Al final] releer por si openshift o lo que sea no se puede
+
+-Control de versiones: inventarse fechas metiendo actualizaciones del doc
+
+-Índice: [Al final] comprobar que está todo
+
+-Índice de figuras: [Al final] comprobar que está todo
+
+-Roles: TERMINADO
+
+-Introducción: [Al final] releer por si algo ha cambiado
